@@ -1,2 +1,2 @@
 # intro-to-deep-learning-csbc-2023
-In-Class programming assignments for the 2023 spring semester of 'Intro to Deep Learning' for the Cherkasy State Buisness College.
+In-class programming assignments for the 2023 spring semester of 'Intro to Deep Learning' for the Cherkasy State Buisness College.
