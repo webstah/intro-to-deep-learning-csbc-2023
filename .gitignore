@@ -5,10 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+completed_class_assignments/data/
 # Distribution / packaging
 .Python
-build/
+build/S
 develop-eggs/
 dist/
 downloads/
